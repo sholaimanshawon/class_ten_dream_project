@@ -1,0 +1,294 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+header{
+	
+	width: ;
+	
+	
+}
+.wrapper {
+	overflow: hidden;
+	
+	width: 85%;
+	margin: 0px 70px 0px 30px;
+}
+.wrapper {
+
+}
+.part_one{
+	overflow: hidden;
+	width: 250px;
+	float: left;
+	
+	width: 25%;
+}
+
+.img {
+	float: left;
+	
+	margin: 10px 0px;
+}
+.img img{
+	width: 50px;
+}
+.home {
+	text-transform: capitalize;
+	font-family: sans-serif;
+	font-weight: 300;
+	font-size: 15px; 
+	float: right;
+	width:80%;
+	color: #465666;
+
+	margin: 5px 0px;
+}
+.home {
+}
+nav{
+	float: right;
+	width: 60%;
+	
+
+	/*! display: ; */
+	width: 56%;
+	margin: 15px 0px;
+}
+nav ul{
+
+	list-style: none;
+	display: inline;
+	/*! float: left; */
+	/*! width: 100%; */
+}
+nav ul li{
+
+}
+nav ul li a{
+	
+	text-decoration: none;
+	float: left;
+	margin: 0px 48px;
+	font-family:sans-serif;
+	text-transform: capitalize;
+	color: #838C9B;
+}
+nav ul li:nth-child(4) a{
+	padding-right: 0px;
+	margin-right: 0px;
+}
+nav ul li a:nth-child(4){
+	padding-right: 0px;
+	margin-right: 0px;
+}
+.banner{
+	
+	background-image: url("../image/winter-181423_1280.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+	background-position: bottom;
+}
+.part_two{
+	
+	background-color: rgba(19, 5, 5, 0.39);
+	width: 25%;
+	float: left;
+	padding: 10p;
+	margin: 50px 0px 260px 20px;
+	border: none;
+}
+.part_two h1{
+
+	text-transform: uppercase;
+	margin: 30px 20px 0px 10px;
+	font-size: 30px;
+	color: white;
+}
+.part_two p{
+
+	margin: 0px 10px 20px;
+	font-size: 20px;
+	color: white;
+	text-transform: capitalize;
+	font-family: sans-serif;
+}
+.part_two button{
+
+	margin: 10px 0px 20px 10px;
+	padding: 5px 20px;
+	background-color: rgba(34, 29, 29, 0.62);
+	color: white;
+	text-transform: capitalize;
+	
+	border: none;
+	border-radius: 5px;
+}
+
+/*#########
+     content section start
+    #########*/
+
+.content{
+	
+
+	/*! padding: 43px; */
+}
+.wrapper2{
+ 	
+ 	width: 85%;
+ 	overflow: hidden;
+ 	margin: 50px 7%;
+}
+.villas{
+	
+	width: 30%;
+	float: left;
+	background-color: #f2f0f0bd;
+}
+.villas h2{
+
+	/*! margin: auto; */
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 30px;
+	margin: 10px;
+	font-family: sans-serif;
+}
+.villas img{
+
+	width: 95%;
+	margin: auto;
+	margin: 0px 2%;
+}
+.villas p{
+
+	font-family: sans-serif;
+	font-size: 18px;
+	margin: 9px 2%;
+}
+.villas button{
+
+	margin: auto;
+	padding: 3px 15px;
+	border-radius: 5px;
+	background-color: #FDFDFB;
+	display: block;
+	margin-bottom: 10px;
+}
+.services{
+	
+	width: 30%;
+	float: left;
+	margin: 0px 4.4%;
+	background-color: #f2f0f0bd;
+}
+.services h2{
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 30px;
+	margin: 10px;
+	font-family: sans-serif;
+}
+.services img{
+	width: 95%;
+	margin: auto;
+	margin: 0px 2%;
+}
+.services p{
+	font-family: sans-serif;
+	font-size: 18px;
+	margin: 9px 2%;
+
+}
+.services button{
+	margin: auto;
+	padding: 3px 15px;
+	border-radius: 5px;
+	background-color: #FDFDFB;
+	display: block;
+	margin-bottom: 10px;
+}
+
+
+.condos{
+	
+	width: 30%;
+	float: left;
+	background-color: #f4e9e9bd;
+}
+.condos h2{
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 30px;
+	margin: 10px;
+	font-family: sans-serif;
+}
+.condos img{
+	width: 95%;
+	margin: auto;
+	margin: 0px 2%;
+}
+.condos p {
+	font-family: sans-serif;
+	font-size: 18px;
+	margin: 9px 2%;
+}
+.condos button{
+	margin: auto;
+	padding: 3px 15px;
+	border-radius: 5px;
+	background-color: #FDFDFB;
+	display: block;
+	margin-bottom: 10px;
+}
+/*#########
+     content section end
+    #########*/
+
+
+ /*###########
+ 	footer section start
+	###########*/
+
+.last{
+	/*! border:2px solid red; */
+}
+.last .wrapper{
+	/*! border:2px solid green; */
+	width: 30%;
+
+	margin: 50px auto;
+}
+.copyright{
+	/*! border:2px solid black; */
+}
+
+.orange{
+	font-family: sans-serif;
+	font-weight: 20px;
+	font-weight: 300;
+	color: #465666;
+
+	text-transform: capitalize;
+}
+.copyright .web{
+
+	font-family: sans-serif;
+	font-weight: 20px;
+	font-weight: 300;
+	color: #465666;
+	text-transform: capitalize;
+	font-size: 13px;
+	text-align: center;
+}
+.last .wrapper .logo{
+	/*! border:2px solid orange; */
+	margin: auto;
+	width: 50%;
+}
+.last .wrapper .logo img{
+	width: 37px;
+	margin: 5px;
+}
